@@ -149,4 +149,4 @@ st.write(f'Based on your inputs, the predicted value of the home in West Roxbury
 
 st.write('Repo link: https://github.com/katemcguigan/MA-346-Final-Project1')
 st.write('Deepnote link: https://deepnote.com/project/bc4ffef2-9f62-4641-8933-72dfec81f866')
-st.write('Final Report link: https://docs.google.com/document/d/1KHtIIOWlVidnxei4IbRhDFwSBy9bjzFVSZuFbPfKeKQ/edit?usp=sharing')
+st.write('Final Report link: https://deepnote.com/project/bc4ffef2-9f62-4641-8933-72dfec81f866#%2FMA%20346%20Final%20Project%20Report.pdf')
